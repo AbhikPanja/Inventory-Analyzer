@@ -1,0 +1,49 @@
+# =====================================
+# Python
+# =====================================
+
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+backend/venv/
+.venv/
+
+.pytest_cache/
+
+# Environment
+backend/.env
+
+# =====================================
+# Uploaded / Generated Files
+# =====================================
+
+backend/uploads/*.csv
+
+backend/predictions/*.csv
+
+backend/vector_store/*.index
+backend/vector_store/*.pkl
+
+# =====================================
+# React
+# =====================================
+
+frontend/node_modules/
+
+frontend/dist/
+
+# =====================================
+# VS Code
+# =====================================
+
+.vscode/
+
+# =====================================
+# OS
+# =====================================
+
+.DS_Store
+
+Thumbs.db

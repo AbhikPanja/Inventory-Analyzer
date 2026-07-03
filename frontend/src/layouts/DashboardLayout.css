@@ -1,0 +1,15 @@
+.dashboard-layout {
+  display: flex;
+
+  min-height: 100vh;
+
+  background: #0b1220;
+}
+
+.dashboard-main {
+  flex: 1;
+  padding: 30px;
+  overflow-x: auto;
+
+  max-width: 1700px;
+}
