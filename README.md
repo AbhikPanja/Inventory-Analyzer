@@ -162,40 +162,23 @@ The chatbot retrieves relevant inventory records using FAISS before generating r
 ---
 
 ---
-
 # 📸 Project Screenshots
 
 ## Dashboard
 
-> *(Add dashboard screenshot here)*
-
-```markdown
 ![Dashboard](assets/dashboard.png)
-```
 
 ---
 
 ## Inventory Analysis
 
-> *(Add inventory table screenshot here)*
-
-```markdown
 ![Inventory Table](assets/table.png)
-```
 
 ---
 
 ## AI Inventory Assistant
 
-> *(Add chatbot screenshot here)*
-
-```markdown
 ![Chatbot](assets/chatbot.png)
-```
-
----
-
----
 
 # ✅ Conclusion
 
